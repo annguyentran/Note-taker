@@ -1,4 +1,4 @@
-# Note-taker
+# Note Taker
 
 This is a note taking app that allows users to save notes on a remote server. The user will hit start and will be taken to a different HTML page with where they
 can add their notes to. The user would be prompted to write the title of a section and write their notes. Once they are done, they will hit the save feature on the
